@@ -1,0 +1,2 @@
+# patikaLiftSimulator
+Asansor Simulasyonu
